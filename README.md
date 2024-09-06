@@ -1,5 +1,5 @@
 # ArmIntelAlias
-Switch between the ARM and x86 (with Rosetta) terminals with an alias for the ARM Macbooks.
+Switch between the ARM and x86 (with Rosetta) terminals with an alias for the M-series Macbooks.
 
 # What do I need to do?
 1. Download the file
